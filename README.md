@@ -1,61 +1,43 @@
-<h1 align="center">Hi 👋, I'm Mert (quetrea)</h1>
-<h3 align="center">A passionate Full Stack Developer from Turkey</h3>
+# Hi there, I'm Furkan Mert Kübel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" height="30" />
+
+A passionate **Web Developer** who loves turning ideas into real, responsive and accessible web applications. I’m currently working on building meaningful digital experiences using **Next.js**, **TypeScript**, and **TailwindCSS**.
+
+- 🌍 Based in Türkiye  
+- 🤝 Open to collaboration  
+- 🚀 Currently working on: [Twisell App](https://github.com/quetrea/twisell-app)  
+- 💬 Ask me about anything web development-related  
+- 📫 Reach me via:  
+  <a href="mailto:quetrea@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
+  <a href="https://www.linkedin.com/in/codewithillusion"><img  alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" /></a>  
+
+---
+
+## 🚧 My Recent Projects
+
+1. **[Twisell App](https://github.com/quetrea/multitenant-ecommerce)** –  
+A multi-tenant e-commerce platform built with Next.js and Payload CMS. Each store has its own isolated dashboard and database. Powered by Stripe, tRPC, and a fully modern development stack.
+2. **[YouTube Clone](https://github.com/quetrea/youtube-clone)** –  
+A modern video-sharing platform built with Next.js, Mux, NeonDB, Drizzle ORM, Hono.js, and tRPC. Featuring real-time video upload, custom dashboards, and a fully accessible UI.
+
+> _“Your code should feel like a warm cup of coffee — comforting, useful, and made with love.” ☕_
+
+---
+
+## 🛠️ Languages and Tools  
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,express,nodejs,mongodb,firebase,vite,figma,git,github,vscode,postman&perline=10)](#)
+
+---
+
+## 📊 GitHub Stats
+
+![Furkan's GitHub Stats](https://bad-apple-github-readme.vercel.app/api?username=quetrea&show_icons=true&count_private=true&theme=blue-green&title_color=00b3ff)
+
+![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=quetrea&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)
+
+![Streak Stats](https://streak-stats.demolab.com/?user=quetrea&count_private=true&theme=blue-green&title_color=00b3ff)
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&background=1E1E1E00&center=true&vCenter=true&width=435&lines=I+love+building+clean+UIs+and+useful+tools.;Let's+learn+and+grow+together!;Open+Source+Enthusiast+%F0%9F%8C%90" alt="Typing SVG" />
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
----
-
-### 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shadcn_UI-1e1e1e?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hono.js-000000?style=for-the-badge&logoColor=white"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quetrea&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=quetrea&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quetrea&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### 📌 About Me
-
-- 🌱 I’m currently learning **Next.js, Hono.js & building full-stack tools**
-- 💡 I like making people’s lives easier through **intuitive and fast interfaces**
-- 🎯 I believe in **focus, discipline and meaningful motivation**
-
----
-
-### 🌍 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/codewithillusion" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### ☕ Support & Motivation
-
-> “İnsanlar ne kadar çok paylaşıyorsa, o kadar çok öğreniyor.”
-
-İçeriklerim sana faydalı oluyorsa, sadece bir teşekkür bile büyük motivasyon 🙌  
-Yeni şeyler üretmeye devam ediyorum. Her gün biraz daha!
-
----
