@@ -1,6 +1,6 @@
 # Hi there, I'm Furkan Mert Kübel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" height="30" />
 
-A passionate **Web Developer** who loves turning ideas into real, responsive and accessible web applications. I’m currently working on building meaningful digital experiences using **Next.js**, **TypeScript**, and **TailwindCSS**.
+A passionate **Software Engineer** who loves turning ideas into real, responsive and accessible web applications. I’m currently working on building meaningful digital experiences using **Next.js**, **TypeScript**, and **TailwindCSS**.
 
 - 🌍 Based in Türkiye  
 - 🤝 Open to collaboration  
