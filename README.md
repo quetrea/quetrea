@@ -14,9 +14,11 @@ A passionate **Software Engineer** who loves turning ideas into real, responsive
 
 ## 🚧 My Recent Projects
 
-1. **[Twisell App](https://github.com/quetrea/multitenant-ecommerce)** –  
+1. **[Aura Focus](https://aurafocus-bay.vercel.app/)** –  
+Aura Focus blends premium calm design with practical execution: focus, tasks, journal, analytics, and profile in one trusted flow.
+2. **[Twisell App](https://github.com/quetrea/multitenant-ecommerce)** –  
 A multi-tenant e-commerce platform built with Next.js and Payload CMS. Each store has its own isolated dashboard and database. Powered by Stripe, tRPC, and a fully modern development stack.
-2. **[YouTube Clone](https://github.com/quetrea/youtube-clone)** –  
+3. **[YouTube Clone](https://github.com/quetrea/youtube-clone)** –  
 A modern video-sharing platform built with Next.js, Mux, NeonDB, Drizzle ORM, Hono.js, and tRPC. Featuring real-time video upload, custom dashboards, and a fully accessible UI.
 
 > _“Your code should feel like a warm cup of coffee — comforting, useful, and made with love.” ☕_
